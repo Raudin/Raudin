@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 📫 How to reach me **markmuga72@gmail.com**
+- 📫 Reach me at **markmuga72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
