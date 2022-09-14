@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Muga</h1>
+
+<div id="header" align="center">
+<img src="https://media2.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="120"/>
 <h3 align="center">A computer science undergraduate who possesses a great passion for entrepreneurship and technology.</h3>
   
 
