@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark Muga</h1>
 
 <div id="header" align="center">
-<img src="https://media2.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="120"/>
-<h3 align="center">A computer science undergraduate who possesses a great passion for entrepreneurship and technology.</h3>
+<img src="https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif" width="300"/>
+<h3 align="center">A computer science undergraduate.</h3>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raudin&label=Profile%20views&color=0e75b6&style=flat" alt="raudin" /> </p>
