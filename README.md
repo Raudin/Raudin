@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Muga</h1>
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif" width="350"/>
 <h3 align="center">A computer science undergraduate.</h3>
   
 
