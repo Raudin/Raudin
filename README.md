@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raudin&label=Profile%20views&color=0e75b6&style=flat" alt="raudin" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **flutter** and **dart**
 
 - 📫 Reach me at **markmuga72@gmail.com**
 
