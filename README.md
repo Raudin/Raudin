@@ -46,9 +46,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raudin&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raudin&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raudin&theme=vue" />
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raudin&show_icons=true&locale=en&layout=compact" alt="raudin" /></p>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raudin&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
