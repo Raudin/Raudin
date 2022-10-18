@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MARK+MUGA....;A+computer+science+;+undergraduate!&center=true&size=30">
@@ -51,4 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raudin&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<hr>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=markmuga72&cover_image=true&theme=default&show_offline=false&bar_color=4eb14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
