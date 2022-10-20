@@ -1,21 +1,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MARK+MUGA....;A+computer+science+;+undergraduate!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋🏿;This+is+MARK+MUGA....;Your+local+nerd!&center=true&size=30">
   </>
 </h1>
-<hr>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif" width="350"/>
 <h3 align="center">A computer science undergraduate.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raudin&label=Profile%20views&color=0e75b6&style=flat" alt="raudin" /> </p>
-
-- 🌱 I’m currently learning **flutter** and **dart**
-
-- 📫 Reach me at **markmuga72@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://twitter.com/MarkMuga9" target="_blank">
@@ -39,7 +33,7 @@
 <br>
  Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=raudin&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=raudin&theme=minimal"  width="700"/>
 </p>
 
 ## 💳 Github Profile Summary Card
@@ -49,8 +43,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raudin&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=raudin&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raudin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <hr>
 
