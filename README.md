@@ -1,6 +1,4 @@
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif" width="350"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raudin&label=Profile%20views&color=0e75b6&style=flat" alt="raudin" /> </p>
