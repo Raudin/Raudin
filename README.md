@@ -1,5 +1,4 @@
-
-
+<p align ="center"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raudin&label=Profile%20views&color=0e75b6&style=flat" alt="raudin" /> </p>
 <h3 align="left">Connect with me:</h3>
