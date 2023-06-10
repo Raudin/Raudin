@@ -16,11 +16,11 @@
 </div> 
 
 <hr>
+
+![](https://github-profile-trophy.vercel.app/?username=raudin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 <p align = "center">
 
-<!--<img src="https://afternoon-falls-54282.herokuapp.com/graph?username=Brannigan123&bg_color=292d3e&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true" width=835/>-->
 
-<img src = "https://github-profile-trophy-gamma.vercel.app/?username=raudin&column=-1&no-frame=true&theme=nord&margin-w=8"  width=835>
 
 <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=raudin&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=material-palenight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
 
@@ -30,4 +30,9 @@
 
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raudin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
