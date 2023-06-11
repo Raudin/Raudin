@@ -15,20 +15,22 @@
 </a>  
 </div> 
 
-<hr>
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=raudin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+ <br>
+
 <p align = "center">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=raudin&theme=transparent&date_format=%5BY.%5Dn.j&card_width=650&stroke=BD93F9&currStreakLabel=BD93F9&ring=BD93F9&sideLabels=BD93F9&currStreakNum=BD93F9&sideNums=BD93F9&border=BD93F9&fire=BD93F9&dates=BD93F9" height=200 >
+  
+<img src = "https://github-profile-trophy-gamma.vercel.app/?username=raudin&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=835>
 
+<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=raudin&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=tokyonight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
 
-
-<img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=raudin&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook&theme=material-palenight&count_private=true&langs_count=10&exclude_repo=Spark-lang&layout=compact&hide_border=true" height=200>
-
-<img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=raudin&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height=200 >
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=raudin&theme=material-palenight&hide_border=true" height=200>
+<img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=raudin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height=200 >
 
 </p>
-### ✍️ Random Dev Quote
+
+<hr>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
